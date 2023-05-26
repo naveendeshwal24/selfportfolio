@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "date": "04/02/2019 - 14/11/2020",
+      "title": "Overseas Associate",
+      "description": "Delivered closures with atmost efficiency and quality for Accenture, Cognizant and HCL as per client quality requirement, Handling Critical clients like VFS Global, HCL, UST Global, Mphasis. Also, handling initiations of checks like Employment, Address, Database and Referance Checks.",
+      "url": "https://reactone-nine.vercel.app"      
+    },
+
+    {
+      "date": "21/12/2020 - 31/12/2021",
+      "title": "Assurance Associate",
+      "description": "Daily candidate interaction to gather address proofs for their background verification, Doing validation of the document with the provided details in candidate information form to ensure the provided proof is authentic",
+      "url": "https://react-video-app-eight.vercel.app"      
+    },
+    {
+      "date": "01/01/2022 - 30/09/2022",
+      "title": "Senior Analyst",
+      "description": "Daily allocations to the vendor for Police, CRC, and Drug Checks, Closure Follow-ups with the vendor to checks are closed  and closed within the agreed timeline",
+      "url": "https://react-crypto-app-pi.vercel.app"      
+    },
+
+    {
+      "date": "01/10/2022 - Present",
+      "title": "Associate Consultant",
+      "description": "Prepare work allocation on daily basis for the team members to minimize dependency number and proper utilization of resources,Take regular follow-ups from vendor for the closure of checks, to ensure that the TAT is met",
+      "url": "https://react-cart-eosin.vercel.app"
+      
+    }   
+  ]
+}
